@@ -1,0 +1,38 @@
+.projects-section {
+    padding: 3rem 0;
+}
+
+.project-detail {
+    margin-bottom: 2rem;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+}
+
+.project-detail:hover {
+    transform: translateY(-10px);  /* Lift up the project detail on hover */
+}
+
+.project-image {
+    width: 100%;
+    height: auto;
+}
+
+.project-links {
+    display: flex;
+    justify-content: center;
+    padding: 1rem 0;
+}
+
+.project-links a {
+    margin: 0 5px;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border: 1px solid #333;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+}
+
+.project-links a:hover {
+    background-color: #333;
+    color: #fff;
+}

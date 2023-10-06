@@ -1,0 +1,16 @@
+.aboutme-section {
+    padding: 2rem 0;
+    text-align: center;
+}
+
+.developer-photo {
+    max-width: 200px;
+    border-radius: 50%;  /* Makes the image circular */
+    margin-bottom: 1rem;
+}
+
+.bio {
+    max-width: 600px;
+    margin: 0 auto;  /* Centers the paragraph in its container */
+    font-size: 1rem;
+}
