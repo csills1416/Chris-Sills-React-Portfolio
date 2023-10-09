@@ -6,7 +6,7 @@ function AboutMe() {
         <section className="aboutme-section">
             <img src="/path-to-your-image.jpg" alt="Developer" className="developer-photo" />
             <p className="bio"> 
-                {/* Add your bio here. */}
+                {"Hello! I'm Chris Sills. I'm a full-stack web developer based out of Richmond, Virginia."}
             </p>
         </section>
     );

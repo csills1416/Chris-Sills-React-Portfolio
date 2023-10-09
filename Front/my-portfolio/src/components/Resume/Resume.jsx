@@ -5,14 +5,20 @@ const proficiencies = [
     "JavaScript", 
     "React.js", 
     "Node.js", 
-    // ...add other skills/proficiencies here
+    "Express.js", 
+    "MongoDB", 
+    "HTML", 
+    "CSS", 
+    "Bootstrap",
+    "Git",
+    "Heroku"
 ];
 
 
 function Resume() {
     return (
         <section className="resume-section">
-            <a href="/path-to-resume.pdf" download className="resume-link">Download My Resume</a>
+            <a href="https://www.linkedin.com/in/chris-sills-40bb11154/" download className="resume-link">Download My Resume</a>
             
             <h2>Proficiencies</h2>
             <ul className="proficiency-list">
