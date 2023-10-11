@@ -14,12 +14,20 @@ const proficiencies = [
     "Heroku"
 ];
 
-
 function Resume() {
     return (
         <section className="resume-section">
-            <a href="https://www.linkedin.com/in/chris-sills-40bb11154/" download className="resume-link">Download My Resume</a>
-            
+            <iframe 
+                src="/Resume-Chris-Sills.pdf" 
+                width="100%" 
+                height="500px" 
+                title="Chris Sills Resume"
+                style={{ border: 'none' }}
+            >
+            </iframe>
+
+            <a href="/Resume-Chris-Sills.pdf" download className="resume-link">Download My Resume</a>
+
             <h2>Proficiencies</h2>
             <ul className="proficiency-list">
                 {proficiencies.map((skill, index) => (
