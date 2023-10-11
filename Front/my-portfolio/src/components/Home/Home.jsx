@@ -1,13 +1,12 @@
 import React from 'react';
 import './Home.css';
+import AboutMe from '../AboutMe/AboutMe'; // Assuming AboutMe is in the same directory
 
 function Home() {
     return (
         <section className="home-section">
             <h1>Welcome to My Portfolio</h1>
-            <p>
-                Hello! I'm [Your Name], a passionate web developer. Explore my work, skills, and get in touch!
-            </p>
+            <AboutMe />
             {/* Any other introductory content you want to add */}
         </section>
     );
