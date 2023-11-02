@@ -6,7 +6,7 @@ Welcome to my personal web developer portfolio, showcasing my skills, projects, 
 
 This portfolio is a representation of my journey in web development. It covers my skills, notable projects, and provides a medium for visitors to get in touch with me.
 
-![Portfolio Screenshot](![Alt text](image.png))
+(![Alt text](image.png))
 
 ## Features
 
