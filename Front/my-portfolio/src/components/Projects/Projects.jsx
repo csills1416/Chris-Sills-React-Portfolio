@@ -19,11 +19,11 @@ import './Projects.css';
             githubUrl: "https://github.com/KClarkDev/homeless-animal-rescue-team"
         },
         {
-            title: "Weather Dashboard",
-            description: "A weather dashboard that allows the user to search for a city and see the weather for that city.",
-            imageUrl: "https://cdn-icons-png.flaticon.com/512/1779/1779940.png",
-            deployedUrl: "https://csills1416.github.io/WeatherDashboardAppProject/",
-            githubUrl: "https://github.com/csills1416/WeatherDashboardAppProject"
+            title: "Congo Bongo: For All your Bongo Needs",
+            description: "This is a parody website using a combination of everything that was learned throughout the University of Richmond's Coding Classes",
+            imageUrl: "https://clipart.coolclips.com/480/vectors/tf05174/CoolClips_vc012667.png",
+            deployedUrl: "https://bongo-store-cc5dbf5291ad.herokuapp.com",
+            githubUrl: "https://github.com/HiZapollo/Congos-Bongos"
         }
     ];
 
